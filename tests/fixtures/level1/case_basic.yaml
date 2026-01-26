@@ -1,0 +1,42 @@
+initial_book:
+  bids: []
+  asks: []
+orders:
+  - id: o1
+    side: buy
+    price: 100
+    quantity: 10
+    asset: default
+    order_type: limit
+    min_quantity: null
+  - id: o2
+    side: sell
+    price: 99
+    quantity: 4
+    asset: default
+    order_type: limit
+    min_quantity: null
+  - id: o3
+    side: sell
+    price: 101
+    quantity: 2
+    asset: default
+    order_type: limit
+    min_quantity: null
+expected_final:
+  bids:
+    - id: o1
+      side: buy
+      price: 100
+      quantity: 6
+      asset: default
+      order_type: limit
+      min_quantity: null
+  asks:
+    - id: o3
+      side: sell
+      price: 101
+      quantity: 2
+      asset: default
+      order_type: limit
+      min_quantity: null

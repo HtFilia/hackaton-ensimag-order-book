@@ -1,0 +1,6 @@
+# Registered teams for the hackathon.
+# Each entry: team identifier and members.
+teams:
+  - id: example_team
+    members:
+      - "Example Member"
