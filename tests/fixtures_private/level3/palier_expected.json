@@ -1,0 +1,4009 @@
+{
+  "META": {
+    "bids": [
+      {
+        "id": "7706",
+        "side": "buy",
+        "price": 643.86,
+        "quantity": 196.0,
+        "asset": "META",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "7549",
+        "side": "buy",
+        "price": 643.55,
+        "quantity": 93.0,
+        "asset": "META",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "7699",
+        "side": "buy",
+        "price": 643.39,
+        "quantity": 66.0,
+        "asset": "META",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "7365",
+        "side": "buy",
+        "price": 643.24,
+        "quantity": 20.0,
+        "asset": "META",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "6815",
+        "side": "buy",
+        "price": 643.12,
+        "quantity": 189.0,
+        "asset": "META",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "6856",
+        "side": "buy",
+        "price": 643.12,
+        "quantity": 98.0,
+        "asset": "META",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "7336",
+        "side": "buy",
+        "price": 643.09,
+        "quantity": 48.0,
+        "asset": "META",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "7622",
+        "side": "buy",
+        "price": 643.02,
+        "quantity": 83.0,
+        "asset": "META",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "7631",
+        "side": "buy",
+        "price": 642.99,
+        "quantity": 68.0,
+        "asset": "META",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "7629",
+        "side": "buy",
+        "price": 642.84,
+        "quantity": 19.0,
+        "asset": "META",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "7325",
+        "side": "buy",
+        "price": 642.44,
+        "quantity": 94.0,
+        "asset": "META",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "7290",
+        "side": "buy",
+        "price": 642.39,
+        "quantity": 63.0,
+        "asset": "META",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "7065",
+        "side": "buy",
+        "price": 642.37,
+        "quantity": 10.0,
+        "asset": "META",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "6893",
+        "side": "buy",
+        "price": 642.31,
+        "quantity": 50.0,
+        "asset": "META",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "7019",
+        "side": "buy",
+        "price": 642.27,
+        "quantity": 431.0,
+        "asset": "META",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "7274",
+        "side": "buy",
+        "price": 642.2,
+        "quantity": 40.0,
+        "asset": "META",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "7312",
+        "side": "buy",
+        "price": 642.16,
+        "quantity": 65.0,
+        "asset": "META",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "7087",
+        "side": "buy",
+        "price": 642.15,
+        "quantity": 72.0,
+        "asset": "META",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "7271",
+        "side": "buy",
+        "price": 642.12,
+        "quantity": 99.0,
+        "asset": "META",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "7080",
+        "side": "buy",
+        "price": 642.08,
+        "quantity": 49.0,
+        "asset": "META",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "6926",
+        "side": "buy",
+        "price": 642.01,
+        "quantity": 91.0,
+        "asset": "META",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "7161",
+        "side": "buy",
+        "price": 642.0,
+        "quantity": 57.0,
+        "asset": "META",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "7001",
+        "side": "buy",
+        "price": 641.97,
+        "quantity": 31.0,
+        "asset": "META",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "7104",
+        "side": "buy",
+        "price": 641.91,
+        "quantity": 92.0,
+        "asset": "META",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "7029",
+        "side": "buy",
+        "price": 641.89,
+        "quantity": 16.0,
+        "asset": "META",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "7264",
+        "side": "buy",
+        "price": 641.87,
+        "quantity": 45.0,
+        "asset": "META",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "6936",
+        "side": "buy",
+        "price": 641.73,
+        "quantity": 39.0,
+        "asset": "META",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "7240",
+        "side": "buy",
+        "price": 641.61,
+        "quantity": 53.0,
+        "asset": "META",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "7259",
+        "side": "buy",
+        "price": 641.61,
+        "quantity": 802.0,
+        "asset": "META",
+        "order_type": "limit",
+        "min_quantity": null
+      }
+    ],
+    "asks": [
+      {
+        "id": "8103",
+        "side": "sell",
+        "price": 646.65,
+        "quantity": 640.0,
+        "asset": "META",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8107",
+        "side": "sell",
+        "price": 647.01,
+        "quantity": 9.0,
+        "asset": "META",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8544",
+        "side": "sell",
+        "price": 647.07,
+        "quantity": 92.0,
+        "asset": "META",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8436",
+        "side": "sell",
+        "price": 647.09,
+        "quantity": 67.0,
+        "asset": "META",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8454",
+        "side": "sell",
+        "price": 647.14,
+        "quantity": 80.0,
+        "asset": "META",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8474",
+        "side": "sell",
+        "price": 647.16,
+        "quantity": 47.0,
+        "asset": "META",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8451",
+        "side": "sell",
+        "price": 647.19,
+        "quantity": 24.0,
+        "asset": "META",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8463",
+        "side": "sell",
+        "price": 647.19,
+        "quantity": 10.0,
+        "asset": "META",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8480",
+        "side": "sell",
+        "price": 647.26,
+        "quantity": 96.0,
+        "asset": "META",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8406",
+        "side": "sell",
+        "price": 647.4,
+        "quantity": 79.0,
+        "asset": "META",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8515",
+        "side": "sell",
+        "price": 647.5,
+        "quantity": 62.0,
+        "asset": "META",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8404",
+        "side": "sell",
+        "price": 647.58,
+        "quantity": 56.0,
+        "asset": "META",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8537",
+        "side": "sell",
+        "price": 647.59,
+        "quantity": 64.0,
+        "asset": "META",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8307",
+        "side": "sell",
+        "price": 647.64,
+        "quantity": 19.0,
+        "asset": "META",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8205",
+        "side": "sell",
+        "price": 647.82,
+        "quantity": 72.0,
+        "asset": "META",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8498",
+        "side": "sell",
+        "price": 647.82,
+        "quantity": 65.0,
+        "asset": "META",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8370",
+        "side": "sell",
+        "price": 647.83,
+        "quantity": 685.0,
+        "asset": "META",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8140",
+        "side": "sell",
+        "price": 647.93,
+        "quantity": 73.0,
+        "asset": "META",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8192",
+        "side": "sell",
+        "price": 648.03,
+        "quantity": 21.0,
+        "asset": "META",
+        "order_type": "limit",
+        "min_quantity": null
+      }
+    ]
+  },
+  "AMZN": {
+    "bids": [
+      {
+        "id": "6760",
+        "side": "buy",
+        "price": 198.62,
+        "quantity": 331.0,
+        "asset": "AMZN",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "6566",
+        "side": "buy",
+        "price": 198.61,
+        "quantity": 14.0,
+        "asset": "AMZN",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "6501",
+        "side": "buy",
+        "price": 198.6,
+        "quantity": 93.0,
+        "asset": "AMZN",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "6183",
+        "side": "buy",
+        "price": 198.59,
+        "quantity": 74.0,
+        "asset": "AMZN",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "6552",
+        "side": "buy",
+        "price": 198.59,
+        "quantity": 71.0,
+        "asset": "AMZN",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "5907",
+        "side": "buy",
+        "price": 198.58,
+        "quantity": 28.0,
+        "asset": "AMZN",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "7971",
+        "side": "buy",
+        "price": 198.49,
+        "quantity": 20.0,
+        "asset": "AMZN",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "7990",
+        "side": "buy",
+        "price": 198.4,
+        "quantity": 215.0,
+        "asset": "AMZN",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8266",
+        "side": "buy",
+        "price": 198.4,
+        "quantity": 97.0,
+        "asset": "AMZN",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8245",
+        "side": "buy",
+        "price": 198.39,
+        "quantity": 6.0,
+        "asset": "AMZN",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8325",
+        "side": "buy",
+        "price": 198.37,
+        "quantity": 50.0,
+        "asset": "AMZN",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8199",
+        "side": "buy",
+        "price": 198.35,
+        "quantity": 17.0,
+        "asset": "AMZN",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8314",
+        "side": "buy",
+        "price": 198.34,
+        "quantity": 34.0,
+        "asset": "AMZN",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8220",
+        "side": "buy",
+        "price": 198.33,
+        "quantity": 73.0,
+        "asset": "AMZN",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8272",
+        "side": "buy",
+        "price": 198.32,
+        "quantity": 54.0,
+        "asset": "AMZN",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8284",
+        "side": "buy",
+        "price": 198.29,
+        "quantity": 52.0,
+        "asset": "AMZN",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8337",
+        "side": "buy",
+        "price": 198.29,
+        "quantity": 28.0,
+        "asset": "AMZN",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8004",
+        "side": "buy",
+        "price": 198.28,
+        "quantity": 10.0,
+        "asset": "AMZN",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8051",
+        "side": "buy",
+        "price": 198.27,
+        "quantity": 31.0,
+        "asset": "AMZN",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8058",
+        "side": "buy",
+        "price": 198.22,
+        "quantity": 57.0,
+        "asset": "AMZN",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8167",
+        "side": "buy",
+        "price": 198.18,
+        "quantity": 21.0,
+        "asset": "AMZN",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8428",
+        "side": "buy",
+        "price": 198.16,
+        "quantity": 46.0,
+        "asset": "AMZN",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8069",
+        "side": "buy",
+        "price": 198.15,
+        "quantity": 15.0,
+        "asset": "AMZN",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8108",
+        "side": "buy",
+        "price": 198.15,
+        "quantity": 97.0,
+        "asset": "AMZN",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8448",
+        "side": "buy",
+        "price": 198.1,
+        "quantity": 84.0,
+        "asset": "AMZN",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8502",
+        "side": "buy",
+        "price": 198.07,
+        "quantity": 89.0,
+        "asset": "AMZN",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8145",
+        "side": "buy",
+        "price": 198.06,
+        "quantity": 830.0,
+        "asset": "AMZN",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8468",
+        "side": "buy",
+        "price": 198.06,
+        "quantity": 56.0,
+        "asset": "AMZN",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8486",
+        "side": "buy",
+        "price": 198.05,
+        "quantity": 26.0,
+        "asset": "AMZN",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8148",
+        "side": "buy",
+        "price": 198.04,
+        "quantity": 41.0,
+        "asset": "AMZN",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8419",
+        "side": "buy",
+        "price": 198.04,
+        "quantity": 21.0,
+        "asset": "AMZN",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8505",
+        "side": "buy",
+        "price": 198.04,
+        "quantity": 65.0,
+        "asset": "AMZN",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "4780",
+        "side": "buy",
+        "price": 198.01,
+        "quantity": 36.0,
+        "asset": "AMZN",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "4801",
+        "side": "buy",
+        "price": 198.0,
+        "quantity": 62.0,
+        "asset": "AMZN",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8514",
+        "side": "buy",
+        "price": 197.98,
+        "quantity": 73.0,
+        "asset": "AMZN",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8641",
+        "side": "buy",
+        "price": 197.87,
+        "quantity": 20.0,
+        "asset": "AMZN",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8560",
+        "side": "buy",
+        "price": 197.85,
+        "quantity": 753.0,
+        "asset": "AMZN",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8525",
+        "side": "buy",
+        "price": 197.81,
+        "quantity": 70.0,
+        "asset": "AMZN",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8548",
+        "side": "buy",
+        "price": 197.8,
+        "quantity": 57.0,
+        "asset": "AMZN",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8541",
+        "side": "buy",
+        "price": 197.79,
+        "quantity": 32.0,
+        "asset": "AMZN",
+        "order_type": "limit",
+        "min_quantity": null
+      }
+    ],
+    "asks": [
+      {
+        "id": "7428",
+        "side": "sell",
+        "price": 199.23,
+        "quantity": 27.0,
+        "asset": "AMZN",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "7595",
+        "side": "sell",
+        "price": 199.23,
+        "quantity": 48.0,
+        "asset": "AMZN",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "7645",
+        "side": "sell",
+        "price": 199.23,
+        "quantity": 13.0,
+        "asset": "AMZN",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "5428",
+        "side": "sell",
+        "price": 199.24,
+        "quantity": 76.0,
+        "asset": "AMZN",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "7372",
+        "side": "sell",
+        "price": 199.25,
+        "quantity": 64.0,
+        "asset": "AMZN",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "7319",
+        "side": "sell",
+        "price": 199.27,
+        "quantity": 38.0,
+        "asset": "AMZN",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "7452",
+        "side": "sell",
+        "price": 199.27,
+        "quantity": 76.0,
+        "asset": "AMZN",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "7674",
+        "side": "sell",
+        "price": 199.28,
+        "quantity": 78.0,
+        "asset": "AMZN",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "7626",
+        "side": "sell",
+        "price": 199.29,
+        "quantity": 10.0,
+        "asset": "AMZN",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "7510",
+        "side": "sell",
+        "price": 199.31,
+        "quantity": 7.0,
+        "asset": "AMZN",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "7654",
+        "side": "sell",
+        "price": 199.35,
+        "quantity": 73.0,
+        "asset": "AMZN",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "7672",
+        "side": "sell",
+        "price": 199.35,
+        "quantity": 57.0,
+        "asset": "AMZN",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "7659",
+        "side": "sell",
+        "price": 199.36,
+        "quantity": 34.0,
+        "asset": "AMZN",
+        "order_type": "limit",
+        "min_quantity": null
+      }
+    ]
+  },
+  "TSLA": {
+    "bids": [],
+    "asks": [
+      {
+        "id": "8170",
+        "side": "sell",
+        "price": 422.18,
+        "quantity": 33.0,
+        "asset": "TSLA",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8264",
+        "side": "sell",
+        "price": 422.3,
+        "quantity": 27.0,
+        "asset": "TSLA",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8201",
+        "side": "sell",
+        "price": 422.35,
+        "quantity": 39.0,
+        "asset": "TSLA",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8175",
+        "side": "sell",
+        "price": 422.36,
+        "quantity": 21.0,
+        "asset": "TSLA",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8178",
+        "side": "sell",
+        "price": 422.36,
+        "quantity": 830.0,
+        "asset": "TSLA",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8269",
+        "side": "sell",
+        "price": 422.37,
+        "quantity": 664.0,
+        "asset": "TSLA",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "7930",
+        "side": "sell",
+        "price": 422.4,
+        "quantity": 39.0,
+        "asset": "TSLA",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8162",
+        "side": "sell",
+        "price": 422.41,
+        "quantity": 38.0,
+        "asset": "TSLA",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8233",
+        "side": "sell",
+        "price": 422.41,
+        "quantity": 32.0,
+        "asset": "TSLA",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "7965",
+        "side": "sell",
+        "price": 422.44,
+        "quantity": 74.0,
+        "asset": "TSLA",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8160",
+        "side": "sell",
+        "price": 422.56,
+        "quantity": 83.0,
+        "asset": "TSLA",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8275",
+        "side": "sell",
+        "price": 422.68,
+        "quantity": 806.0,
+        "asset": "TSLA",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8298",
+        "side": "sell",
+        "price": 422.77,
+        "quantity": 348.0,
+        "asset": "TSLA",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8089",
+        "side": "sell",
+        "price": 422.78,
+        "quantity": 84.0,
+        "asset": "TSLA",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8060",
+        "side": "sell",
+        "price": 422.82,
+        "quantity": 52.0,
+        "asset": "TSLA",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8310",
+        "side": "sell",
+        "price": 423.18,
+        "quantity": 5.0,
+        "asset": "TSLA",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "4679",
+        "side": "sell",
+        "price": 423.36,
+        "quantity": 39.0,
+        "asset": "TSLA",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "4276",
+        "side": "sell",
+        "price": 423.4,
+        "quantity": 50.0,
+        "asset": "TSLA",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "4734",
+        "side": "sell",
+        "price": 423.45,
+        "quantity": 31.0,
+        "asset": "TSLA",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8530",
+        "side": "sell",
+        "price": 423.51,
+        "quantity": 13.0,
+        "asset": "TSLA",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "4192",
+        "side": "sell",
+        "price": 423.54,
+        "quantity": 62.0,
+        "asset": "TSLA",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8445",
+        "side": "sell",
+        "price": 423.54,
+        "quantity": 66.0,
+        "asset": "TSLA",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "4386",
+        "side": "sell",
+        "price": 423.55,
+        "quantity": 45.0,
+        "asset": "TSLA",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "4294",
+        "side": "sell",
+        "price": 423.63,
+        "quantity": 523.0,
+        "asset": "TSLA",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "4650",
+        "side": "sell",
+        "price": 423.63,
+        "quantity": 81.0,
+        "asset": "TSLA",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8545",
+        "side": "sell",
+        "price": 423.69,
+        "quantity": 6.0,
+        "asset": "TSLA",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8333",
+        "side": "sell",
+        "price": 423.73,
+        "quantity": 59.0,
+        "asset": "TSLA",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8501",
+        "side": "sell",
+        "price": 423.73,
+        "quantity": 4.0,
+        "asset": "TSLA",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8494",
+        "side": "sell",
+        "price": 423.79,
+        "quantity": 571.0,
+        "asset": "TSLA",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "4133",
+        "side": "sell",
+        "price": 423.82,
+        "quantity": 182.0,
+        "asset": "TSLA",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8472",
+        "side": "sell",
+        "price": 423.9,
+        "quantity": 747.0,
+        "asset": "TSLA",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8559",
+        "side": "sell",
+        "price": 423.9,
+        "quantity": 7.0,
+        "asset": "TSLA",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "4301",
+        "side": "sell",
+        "price": 423.91,
+        "quantity": 454.0,
+        "asset": "TSLA",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8396",
+        "side": "sell",
+        "price": 423.93,
+        "quantity": 37.0,
+        "asset": "TSLA",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8577",
+        "side": "sell",
+        "price": 423.94,
+        "quantity": 24.0,
+        "asset": "TSLA",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8462",
+        "side": "sell",
+        "price": 423.95,
+        "quantity": 63.0,
+        "asset": "TSLA",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8584",
+        "side": "sell",
+        "price": 424.02,
+        "quantity": 22.0,
+        "asset": "TSLA",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "4337",
+        "side": "sell",
+        "price": 424.04,
+        "quantity": 76.0,
+        "asset": "TSLA",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8345",
+        "side": "sell",
+        "price": 424.04,
+        "quantity": 870.0,
+        "asset": "TSLA",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8642",
+        "side": "sell",
+        "price": 424.2,
+        "quantity": 95.0,
+        "asset": "TSLA",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8633",
+        "side": "sell",
+        "price": 424.38,
+        "quantity": 663.0,
+        "asset": "TSLA",
+        "order_type": "limit",
+        "min_quantity": null
+      }
+    ]
+  },
+  "AAPL": {
+    "bids": [
+      {
+        "id": "8596",
+        "side": "buy",
+        "price": 253.17,
+        "quantity": 14.0,
+        "asset": "AAPL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8626",
+        "side": "buy",
+        "price": 252.98,
+        "quantity": 48.0,
+        "asset": "AAPL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8611",
+        "side": "buy",
+        "price": 252.96,
+        "quantity": 64.0,
+        "asset": "AAPL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8615",
+        "side": "buy",
+        "price": 252.96,
+        "quantity": 87.0,
+        "asset": "AAPL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8627",
+        "side": "buy",
+        "price": 252.93,
+        "quantity": 71.0,
+        "asset": "AAPL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8619",
+        "side": "buy",
+        "price": 252.91,
+        "quantity": 35.0,
+        "asset": "AAPL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "7369",
+        "side": "buy",
+        "price": 252.47,
+        "quantity": 184.0,
+        "asset": "AAPL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "7125",
+        "side": "buy",
+        "price": 252.41,
+        "quantity": 5.0,
+        "asset": "AAPL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "7356",
+        "side": "buy",
+        "price": 252.41,
+        "quantity": 660.0,
+        "asset": "AAPL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "6886",
+        "side": "buy",
+        "price": 252.4,
+        "quantity": 89.0,
+        "asset": "AAPL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "7126",
+        "side": "buy",
+        "price": 252.4,
+        "quantity": 209.0,
+        "asset": "AAPL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "7381",
+        "side": "buy",
+        "price": 252.4,
+        "quantity": 759.0,
+        "asset": "AAPL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "7458",
+        "side": "buy",
+        "price": 252.4,
+        "quantity": 83.0,
+        "asset": "AAPL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "7272",
+        "side": "buy",
+        "price": 252.37,
+        "quantity": 73.0,
+        "asset": "AAPL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "7262",
+        "side": "buy",
+        "price": 252.35,
+        "quantity": 41.0,
+        "asset": "AAPL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "7085",
+        "side": "buy",
+        "price": 252.33,
+        "quantity": 59.0,
+        "asset": "AAPL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "7226",
+        "side": "buy",
+        "price": 252.31,
+        "quantity": 18.0,
+        "asset": "AAPL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "7349",
+        "side": "buy",
+        "price": 252.31,
+        "quantity": 61.0,
+        "asset": "AAPL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "7164",
+        "side": "buy",
+        "price": 252.3,
+        "quantity": 73.0,
+        "asset": "AAPL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "7143",
+        "side": "buy",
+        "price": 252.29,
+        "quantity": 10.0,
+        "asset": "AAPL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "7231",
+        "side": "buy",
+        "price": 252.28,
+        "quantity": 19.0,
+        "asset": "AAPL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "7162",
+        "side": "buy",
+        "price": 252.26,
+        "quantity": 91.0,
+        "asset": "AAPL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "7159",
+        "side": "buy",
+        "price": 252.24,
+        "quantity": 91.0,
+        "asset": "AAPL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "7189",
+        "side": "buy",
+        "price": 252.23,
+        "quantity": 21.0,
+        "asset": "AAPL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "7261",
+        "side": "buy",
+        "price": 252.23,
+        "quantity": 71.0,
+        "asset": "AAPL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "7188",
+        "side": "buy",
+        "price": 252.22,
+        "quantity": 4.0,
+        "asset": "AAPL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "7300",
+        "side": "buy",
+        "price": 252.21,
+        "quantity": 2.0,
+        "asset": "AAPL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "5247",
+        "side": "buy",
+        "price": 252.2,
+        "quantity": 894.0,
+        "asset": "AAPL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "5106",
+        "side": "buy",
+        "price": 252.18,
+        "quantity": 679.0,
+        "asset": "AAPL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "7191",
+        "side": "buy",
+        "price": 252.18,
+        "quantity": 60.0,
+        "asset": "AAPL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "5225",
+        "side": "buy",
+        "price": 252.17,
+        "quantity": 33.0,
+        "asset": "AAPL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "5212",
+        "side": "buy",
+        "price": 252.12,
+        "quantity": 37.0,
+        "asset": "AAPL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "5055",
+        "side": "buy",
+        "price": 252.1,
+        "quantity": 28.0,
+        "asset": "AAPL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "5254",
+        "side": "buy",
+        "price": 252.1,
+        "quantity": 47.0,
+        "asset": "AAPL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "5071",
+        "side": "buy",
+        "price": 252.08,
+        "quantity": 19.0,
+        "asset": "AAPL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "5211",
+        "side": "buy",
+        "price": 252.05,
+        "quantity": 934.0,
+        "asset": "AAPL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "5035",
+        "side": "buy",
+        "price": 252.04,
+        "quantity": 36.0,
+        "asset": "AAPL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "5177",
+        "side": "buy",
+        "price": 252.02,
+        "quantity": 67.0,
+        "asset": "AAPL",
+        "order_type": "limit",
+        "min_quantity": null
+      }
+    ],
+    "asks": [
+      {
+        "id": "8602",
+        "side": "sell",
+        "price": 253.18,
+        "quantity": 135.0,
+        "asset": "AAPL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8608",
+        "side": "sell",
+        "price": 253.26,
+        "quantity": 4.0,
+        "asset": "AAPL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8590",
+        "side": "sell",
+        "price": 253.38,
+        "quantity": 11.0,
+        "asset": "AAPL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8588",
+        "side": "sell",
+        "price": 253.39,
+        "quantity": 63.0,
+        "asset": "AAPL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8565",
+        "side": "sell",
+        "price": 253.45,
+        "quantity": 27.0,
+        "asset": "AAPL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8503",
+        "side": "sell",
+        "price": 253.46,
+        "quantity": 21.0,
+        "asset": "AAPL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8558",
+        "side": "sell",
+        "price": 253.47,
+        "quantity": 96.0,
+        "asset": "AAPL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8538",
+        "side": "sell",
+        "price": 253.48,
+        "quantity": 81.0,
+        "asset": "AAPL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8389",
+        "side": "sell",
+        "price": 253.51,
+        "quantity": 62.0,
+        "asset": "AAPL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8453",
+        "side": "sell",
+        "price": 253.51,
+        "quantity": 530.0,
+        "asset": "AAPL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8308",
+        "side": "sell",
+        "price": 253.53,
+        "quantity": 363.0,
+        "asset": "AAPL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8418",
+        "side": "sell",
+        "price": 253.53,
+        "quantity": 73.0,
+        "asset": "AAPL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8267",
+        "side": "sell",
+        "price": 253.54,
+        "quantity": 95.0,
+        "asset": "AAPL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8388",
+        "side": "sell",
+        "price": 253.55,
+        "quantity": 87.0,
+        "asset": "AAPL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8437",
+        "side": "sell",
+        "price": 253.58,
+        "quantity": 67.0,
+        "asset": "AAPL",
+        "order_type": "limit",
+        "min_quantity": null
+      }
+    ]
+  },
+  "GOOGL": {
+    "bids": [
+      {
+        "id": "8612",
+        "side": "buy",
+        "price": 308.13,
+        "quantity": 46.0,
+        "asset": "GOOGL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8535",
+        "side": "buy",
+        "price": 308.1,
+        "quantity": 38.0,
+        "asset": "GOOGL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8567",
+        "side": "buy",
+        "price": 308.08,
+        "quantity": 46.0,
+        "asset": "GOOGL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8518",
+        "side": "buy",
+        "price": 308.06,
+        "quantity": 52.0,
+        "asset": "GOOGL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8592",
+        "side": "buy",
+        "price": 308.06,
+        "quantity": 45.0,
+        "asset": "GOOGL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8536",
+        "side": "buy",
+        "price": 308.05,
+        "quantity": 69.0,
+        "asset": "GOOGL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8638",
+        "side": "buy",
+        "price": 307.99,
+        "quantity": 969.0,
+        "asset": "GOOGL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "6707",
+        "side": "buy",
+        "price": 306.56,
+        "quantity": 57.0,
+        "asset": "GOOGL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "7297",
+        "side": "buy",
+        "price": 306.54,
+        "quantity": 328.0,
+        "asset": "GOOGL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "7237",
+        "side": "buy",
+        "price": 306.52,
+        "quantity": 64.0,
+        "asset": "GOOGL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "7278",
+        "side": "buy",
+        "price": 306.5,
+        "quantity": 57.0,
+        "asset": "GOOGL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "7377",
+        "side": "buy",
+        "price": 306.48,
+        "quantity": 56.0,
+        "asset": "GOOGL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "7258",
+        "side": "buy",
+        "price": 306.46,
+        "quantity": 79.0,
+        "asset": "GOOGL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "7403",
+        "side": "buy",
+        "price": 306.44,
+        "quantity": 445.0,
+        "asset": "GOOGL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "7249",
+        "side": "buy",
+        "price": 306.42,
+        "quantity": 59.0,
+        "asset": "GOOGL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "7421",
+        "side": "buy",
+        "price": 306.37,
+        "quantity": 67.0,
+        "asset": "GOOGL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "7386",
+        "side": "buy",
+        "price": 306.31,
+        "quantity": 60.0,
+        "asset": "GOOGL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "6579",
+        "side": "buy",
+        "price": 306.3,
+        "quantity": 198.0,
+        "asset": "GOOGL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "6245",
+        "side": "buy",
+        "price": 306.23,
+        "quantity": 1.0,
+        "asset": "GOOGL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "6288",
+        "side": "buy",
+        "price": 306.22,
+        "quantity": 68.0,
+        "asset": "GOOGL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "6111",
+        "side": "buy",
+        "price": 305.87,
+        "quantity": 1.0,
+        "asset": "GOOGL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "5894",
+        "side": "buy",
+        "price": 305.83,
+        "quantity": 60.0,
+        "asset": "GOOGL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "6031",
+        "side": "buy",
+        "price": 305.81,
+        "quantity": 65.0,
+        "asset": "GOOGL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "5918",
+        "side": "buy",
+        "price": 305.78,
+        "quantity": 78.0,
+        "asset": "GOOGL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "6042",
+        "side": "buy",
+        "price": 305.66,
+        "quantity": 17.0,
+        "asset": "GOOGL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "3772",
+        "side": "buy",
+        "price": 305.64,
+        "quantity": 234.0,
+        "asset": "GOOGL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "5875",
+        "side": "buy",
+        "price": 305.57,
+        "quantity": 9.0,
+        "asset": "GOOGL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "5834",
+        "side": "buy",
+        "price": 305.56,
+        "quantity": 32.0,
+        "asset": "GOOGL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "5121",
+        "side": "buy",
+        "price": 304.78,
+        "quantity": 5.0,
+        "asset": "GOOGL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "4915",
+        "side": "buy",
+        "price": 304.73,
+        "quantity": 13.0,
+        "asset": "GOOGL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "4629",
+        "side": "buy",
+        "price": 304.72,
+        "quantity": 54.0,
+        "asset": "GOOGL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "4912",
+        "side": "buy",
+        "price": 304.72,
+        "quantity": 93.0,
+        "asset": "GOOGL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "4185",
+        "side": "buy",
+        "price": 304.68,
+        "quantity": 239.0,
+        "asset": "GOOGL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "4032",
+        "side": "buy",
+        "price": 304.67,
+        "quantity": 87.0,
+        "asset": "GOOGL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "4050",
+        "side": "buy",
+        "price": 304.67,
+        "quantity": 64.0,
+        "asset": "GOOGL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "4372",
+        "side": "buy",
+        "price": 304.67,
+        "quantity": 630.0,
+        "asset": "GOOGL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "4373",
+        "side": "buy",
+        "price": 304.66,
+        "quantity": 60.0,
+        "asset": "GOOGL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "4741",
+        "side": "buy",
+        "price": 304.66,
+        "quantity": 94.0,
+        "asset": "GOOGL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "3924",
+        "side": "buy",
+        "price": 304.63,
+        "quantity": 61.0,
+        "asset": "GOOGL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "4311",
+        "side": "buy",
+        "price": 304.63,
+        "quantity": 61.0,
+        "asset": "GOOGL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "2943",
+        "side": "buy",
+        "price": 304.62,
+        "quantity": 198.0,
+        "asset": "GOOGL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "2882",
+        "side": "buy",
+        "price": 304.61,
+        "quantity": 16.0,
+        "asset": "GOOGL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "3465",
+        "side": "buy",
+        "price": 304.59,
+        "quantity": 1.0,
+        "asset": "GOOGL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "4637",
+        "side": "buy",
+        "price": 304.57,
+        "quantity": 92.0,
+        "asset": "GOOGL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "2937",
+        "side": "buy",
+        "price": 304.54,
+        "quantity": 22.0,
+        "asset": "GOOGL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "2979",
+        "side": "buy",
+        "price": 304.54,
+        "quantity": 41.0,
+        "asset": "GOOGL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "4458",
+        "side": "buy",
+        "price": 304.51,
+        "quantity": 64.0,
+        "asset": "GOOGL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "2899",
+        "side": "buy",
+        "price": 304.5,
+        "quantity": 62.0,
+        "asset": "GOOGL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "4385",
+        "side": "buy",
+        "price": 304.5,
+        "quantity": 65.0,
+        "asset": "GOOGL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "4375",
+        "side": "buy",
+        "price": 304.48,
+        "quantity": 90.0,
+        "asset": "GOOGL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "3599",
+        "side": "buy",
+        "price": 304.42,
+        "quantity": 77.0,
+        "asset": "GOOGL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "3631",
+        "side": "buy",
+        "price": 304.4,
+        "quantity": 20.0,
+        "asset": "GOOGL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "3570",
+        "side": "buy",
+        "price": 304.4,
+        "quantity": 1096.0,
+        "asset": "GOOGL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "3653",
+        "side": "buy",
+        "price": 304.32,
+        "quantity": 59.0,
+        "asset": "GOOGL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "2916",
+        "side": "buy",
+        "price": 304.26,
+        "quantity": 18.0,
+        "asset": "GOOGL",
+        "order_type": "limit",
+        "min_quantity": null
+      }
+    ],
+    "asks": [
+      {
+        "id": "8598",
+        "side": "sell",
+        "price": 308.14,
+        "quantity": 49.0,
+        "asset": "GOOGL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8606",
+        "side": "sell",
+        "price": 308.14,
+        "quantity": 96.0,
+        "asset": "GOOGL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8637",
+        "side": "sell",
+        "price": 308.18,
+        "quantity": 62.0,
+        "asset": "GOOGL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8071",
+        "side": "sell",
+        "price": 308.19,
+        "quantity": 183.0,
+        "asset": "GOOGL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8551",
+        "side": "sell",
+        "price": 308.2,
+        "quantity": 52.0,
+        "asset": "GOOGL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8511",
+        "side": "sell",
+        "price": 308.21,
+        "quantity": 27.0,
+        "asset": "GOOGL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8561",
+        "side": "sell",
+        "price": 308.21,
+        "quantity": 29.0,
+        "asset": "GOOGL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8568",
+        "side": "sell",
+        "price": 308.28,
+        "quantity": 8.0,
+        "asset": "GOOGL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8523",
+        "side": "sell",
+        "price": 308.31,
+        "quantity": 86.0,
+        "asset": "GOOGL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8461",
+        "side": "sell",
+        "price": 308.38,
+        "quantity": 68.0,
+        "asset": "GOOGL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8470",
+        "side": "sell",
+        "price": 308.38,
+        "quantity": 24.0,
+        "asset": "GOOGL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8177",
+        "side": "sell",
+        "price": 308.49,
+        "quantity": 25.0,
+        "asset": "GOOGL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8422",
+        "side": "sell",
+        "price": 308.49,
+        "quantity": 54.0,
+        "asset": "GOOGL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8300",
+        "side": "sell",
+        "price": 308.52,
+        "quantity": 90.0,
+        "asset": "GOOGL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8226",
+        "side": "sell",
+        "price": 308.54,
+        "quantity": 28.0,
+        "asset": "GOOGL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8417",
+        "side": "sell",
+        "price": 308.56,
+        "quantity": 883.0,
+        "asset": "GOOGL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8334",
+        "side": "sell",
+        "price": 308.61,
+        "quantity": 78.0,
+        "asset": "GOOGL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8316",
+        "side": "sell",
+        "price": 308.62,
+        "quantity": 79.0,
+        "asset": "GOOGL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8198",
+        "side": "sell",
+        "price": 308.64,
+        "quantity": 20.0,
+        "asset": "GOOGL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8400",
+        "side": "sell",
+        "price": 308.65,
+        "quantity": 35.0,
+        "asset": "GOOGL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8354",
+        "side": "sell",
+        "price": 308.67,
+        "quantity": 53.0,
+        "asset": "GOOGL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8373",
+        "side": "sell",
+        "price": 308.71,
+        "quantity": 67.0,
+        "asset": "GOOGL",
+        "order_type": "limit",
+        "min_quantity": null
+      }
+    ]
+  },
+  "MSFT": {
+    "bids": [
+      {
+        "id": "8614",
+        "side": "buy",
+        "price": 406.94,
+        "quantity": 62.0,
+        "asset": "MSFT",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8563",
+        "side": "buy",
+        "price": 406.87,
+        "quantity": 92.0,
+        "asset": "MSFT",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8601",
+        "side": "buy",
+        "price": 406.87,
+        "quantity": 86.0,
+        "asset": "MSFT",
+        "order_type": "limit",
+        "min_quantity": null
+      }
+    ],
+    "asks": [
+      {
+        "id": "8607",
+        "side": "sell",
+        "price": 406.95,
+        "quantity": 684.0,
+        "asset": "MSFT",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8609",
+        "side": "sell",
+        "price": 407.01,
+        "quantity": 100.0,
+        "asset": "MSFT",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8371",
+        "side": "sell",
+        "price": 407.04,
+        "quantity": 396.0,
+        "asset": "MSFT",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8603",
+        "side": "sell",
+        "price": 407.04,
+        "quantity": 8.0,
+        "asset": "MSFT",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8583",
+        "side": "sell",
+        "price": 407.07,
+        "quantity": 69.0,
+        "asset": "MSFT",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8473",
+        "side": "sell",
+        "price": 407.08,
+        "quantity": 57.0,
+        "asset": "MSFT",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8509",
+        "side": "sell",
+        "price": 407.14,
+        "quantity": 33.0,
+        "asset": "MSFT",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "7728",
+        "side": "sell",
+        "price": 407.16,
+        "quantity": 710.0,
+        "asset": "MSFT",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "7172",
+        "side": "sell",
+        "price": 407.17,
+        "quantity": 59.0,
+        "asset": "MSFT",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8323",
+        "side": "sell",
+        "price": 407.17,
+        "quantity": 22.0,
+        "asset": "MSFT",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "7966",
+        "side": "sell",
+        "price": 407.19,
+        "quantity": 51.0,
+        "asset": "MSFT",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "7740",
+        "side": "sell",
+        "price": 407.2,
+        "quantity": 98.0,
+        "asset": "MSFT",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8217",
+        "side": "sell",
+        "price": 407.22,
+        "quantity": 65.0,
+        "asset": "MSFT",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "7979",
+        "side": "sell",
+        "price": 407.23,
+        "quantity": 73.0,
+        "asset": "MSFT",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8395",
+        "side": "sell",
+        "price": 407.26,
+        "quantity": 7.0,
+        "asset": "MSFT",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8232",
+        "side": "sell",
+        "price": 407.27,
+        "quantity": 48.0,
+        "asset": "MSFT",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8268",
+        "side": "sell",
+        "price": 407.28,
+        "quantity": 46.0,
+        "asset": "MSFT",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8196",
+        "side": "sell",
+        "price": 407.29,
+        "quantity": 79.0,
+        "asset": "MSFT",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8215",
+        "side": "sell",
+        "price": 407.3,
+        "quantity": 81.0,
+        "asset": "MSFT",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "7156",
+        "side": "sell",
+        "price": 407.31,
+        "quantity": 38.0,
+        "asset": "MSFT",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8415",
+        "side": "sell",
+        "price": 407.31,
+        "quantity": 94.0,
+        "asset": "MSFT",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8271",
+        "side": "sell",
+        "price": 407.32,
+        "quantity": 49.0,
+        "asset": "MSFT",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "7167",
+        "side": "sell",
+        "price": 407.36,
+        "quantity": 81.0,
+        "asset": "MSFT",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8260",
+        "side": "sell",
+        "price": 407.37,
+        "quantity": 80.0,
+        "asset": "MSFT",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8465",
+        "side": "sell",
+        "price": 407.37,
+        "quantity": 24.0,
+        "asset": "MSFT",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8194",
+        "side": "sell",
+        "price": 407.4,
+        "quantity": 53.0,
+        "asset": "MSFT",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8186",
+        "side": "sell",
+        "price": 407.41,
+        "quantity": 18.0,
+        "asset": "MSFT",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8183",
+        "side": "sell",
+        "price": 407.42,
+        "quantity": 21.0,
+        "asset": "MSFT",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8036",
+        "side": "sell",
+        "price": 407.44,
+        "quantity": 3.0,
+        "asset": "MSFT",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8246",
+        "side": "sell",
+        "price": 407.45,
+        "quantity": 68.0,
+        "asset": "MSFT",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8031",
+        "side": "sell",
+        "price": 407.47,
+        "quantity": 79.0,
+        "asset": "MSFT",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8435",
+        "side": "sell",
+        "price": 407.47,
+        "quantity": 76.0,
+        "asset": "MSFT",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8165",
+        "side": "sell",
+        "price": 407.49,
+        "quantity": 13.0,
+        "asset": "MSFT",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8104",
+        "side": "sell",
+        "price": 407.5,
+        "quantity": 52.0,
+        "asset": "MSFT",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8013",
+        "side": "sell",
+        "price": 407.52,
+        "quantity": 76.0,
+        "asset": "MSFT",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8124",
+        "side": "sell",
+        "price": 407.55,
+        "quantity": 81.0,
+        "asset": "MSFT",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8083",
+        "side": "sell",
+        "price": 407.56,
+        "quantity": 63.0,
+        "asset": "MSFT",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8029",
+        "side": "sell",
+        "price": 407.58,
+        "quantity": 6.0,
+        "asset": "MSFT",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8082",
+        "side": "sell",
+        "price": 407.6,
+        "quantity": 78.0,
+        "asset": "MSFT",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8074",
+        "side": "sell",
+        "price": 407.61,
+        "quantity": 70.0,
+        "asset": "MSFT",
+        "order_type": "limit",
+        "min_quantity": null
+      }
+    ]
+  },
+  "SPY": {
+    "bids": [
+      {
+        "id": "8247",
+        "side": "buy",
+        "price": 681.16,
+        "quantity": 26.0,
+        "asset": "SPY",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8555",
+        "side": "buy",
+        "price": 680.91,
+        "quantity": 100.0,
+        "asset": "SPY",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8358",
+        "side": "buy",
+        "price": 680.82,
+        "quantity": 5.0,
+        "asset": "SPY",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8324",
+        "side": "buy",
+        "price": 680.8,
+        "quantity": 72.0,
+        "asset": "SPY",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8566",
+        "side": "buy",
+        "price": 680.8,
+        "quantity": 20.0,
+        "asset": "SPY",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8293",
+        "side": "buy",
+        "price": 680.74,
+        "quantity": 34.0,
+        "asset": "SPY",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8302",
+        "side": "buy",
+        "price": 680.68,
+        "quantity": 23.0,
+        "asset": "SPY",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8277",
+        "side": "buy",
+        "price": 680.65,
+        "quantity": 24.0,
+        "asset": "SPY",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8281",
+        "side": "buy",
+        "price": 680.63,
+        "quantity": 28.0,
+        "asset": "SPY",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8528",
+        "side": "buy",
+        "price": 680.62,
+        "quantity": 54.0,
+        "asset": "SPY",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8276",
+        "side": "buy",
+        "price": 680.5,
+        "quantity": 96.0,
+        "asset": "SPY",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8384",
+        "side": "buy",
+        "price": 680.5,
+        "quantity": 49.0,
+        "asset": "SPY",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8587",
+        "side": "buy",
+        "price": 680.45,
+        "quantity": 14.0,
+        "asset": "SPY",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8604",
+        "side": "buy",
+        "price": 680.32,
+        "quantity": 744.0,
+        "asset": "SPY",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8645",
+        "side": "buy",
+        "price": 680.27,
+        "quantity": 87.0,
+        "asset": "SPY",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8492",
+        "side": "buy",
+        "price": 680.2,
+        "quantity": 33.0,
+        "asset": "SPY",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8440",
+        "side": "buy",
+        "price": 680.19,
+        "quantity": 47.0,
+        "asset": "SPY",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "3514",
+        "side": "buy",
+        "price": 680.19,
+        "quantity": 1.0,
+        "asset": "SPY",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8432",
+        "side": "buy",
+        "price": 680.18,
+        "quantity": 54.0,
+        "asset": "SPY",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "5194",
+        "side": "buy",
+        "price": 680.17,
+        "quantity": 765.0,
+        "asset": "SPY",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "5137",
+        "side": "buy",
+        "price": 680.16,
+        "quantity": 32.0,
+        "asset": "SPY",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "4909",
+        "side": "buy",
+        "price": 680.15,
+        "quantity": 18.0,
+        "asset": "SPY",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "4924",
+        "side": "buy",
+        "price": 680.14,
+        "quantity": 82.0,
+        "asset": "SPY",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8495",
+        "side": "buy",
+        "price": 680.14,
+        "quantity": 51.0,
+        "asset": "SPY",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "4974",
+        "side": "buy",
+        "price": 680.12,
+        "quantity": 24.0,
+        "asset": "SPY",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8616",
+        "side": "buy",
+        "price": 680.12,
+        "quantity": 35.0,
+        "asset": "SPY",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "5128",
+        "side": "buy",
+        "price": 680.11,
+        "quantity": 72.0,
+        "asset": "SPY",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "3666",
+        "side": "buy",
+        "price": 680.1,
+        "quantity": 1.0,
+        "asset": "SPY",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8489",
+        "side": "buy",
+        "price": 680.09,
+        "quantity": 73.0,
+        "asset": "SPY",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "5209",
+        "side": "buy",
+        "price": 680.06,
+        "quantity": 60.0,
+        "asset": "SPY",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8644",
+        "side": "buy",
+        "price": 680.05,
+        "quantity": 33.0,
+        "asset": "SPY",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "5153",
+        "side": "buy",
+        "price": 680.04,
+        "quantity": 48.0,
+        "asset": "SPY",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "5104",
+        "side": "buy",
+        "price": 680.02,
+        "quantity": 33.0,
+        "asset": "SPY",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8487",
+        "side": "buy",
+        "price": 680.02,
+        "quantity": 44.0,
+        "asset": "SPY",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8481",
+        "side": "buy",
+        "price": 679.99,
+        "quantity": 61.0,
+        "asset": "SPY",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "3774",
+        "side": "buy",
+        "price": 679.93,
+        "quantity": 47.0,
+        "asset": "SPY",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "5127",
+        "side": "buy",
+        "price": 679.93,
+        "quantity": 14.0,
+        "asset": "SPY",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "5001",
+        "side": "buy",
+        "price": 679.89,
+        "quantity": 89.0,
+        "asset": "SPY",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "4993",
+        "side": "buy",
+        "price": 679.89,
+        "quantity": 503.0,
+        "asset": "SPY",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "3291",
+        "side": "buy",
+        "price": 679.85,
+        "quantity": 67.0,
+        "asset": "SPY",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "4980",
+        "side": "buy",
+        "price": 679.82,
+        "quantity": 7.0,
+        "asset": "SPY",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "3639",
+        "side": "buy",
+        "price": 679.81,
+        "quantity": 10.0,
+        "asset": "SPY",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "3453",
+        "side": "buy",
+        "price": 679.79,
+        "quantity": 22.0,
+        "asset": "SPY",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "2620",
+        "side": "buy",
+        "price": 679.77,
+        "quantity": 79.0,
+        "asset": "SPY",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "5095",
+        "side": "buy",
+        "price": 679.74,
+        "quantity": 71.0,
+        "asset": "SPY",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "3528",
+        "side": "buy",
+        "price": 679.73,
+        "quantity": 21.0,
+        "asset": "SPY",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "3422",
+        "side": "buy",
+        "price": 679.72,
+        "quantity": 45.0,
+        "asset": "SPY",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "5040",
+        "side": "buy",
+        "price": 679.71,
+        "quantity": 48.0,
+        "asset": "SPY",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "2902",
+        "side": "buy",
+        "price": 679.7,
+        "quantity": 46.0,
+        "asset": "SPY",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "3502",
+        "side": "buy",
+        "price": 679.65,
+        "quantity": 98.0,
+        "asset": "SPY",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "3484",
+        "side": "buy",
+        "price": 679.63,
+        "quantity": 23.0,
+        "asset": "SPY",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "3473",
+        "side": "buy",
+        "price": 679.61,
+        "quantity": 32.0,
+        "asset": "SPY",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "2427",
+        "side": "buy",
+        "price": 679.51,
+        "quantity": 227.0,
+        "asset": "SPY",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "2525",
+        "side": "buy",
+        "price": 679.5,
+        "quantity": 19.0,
+        "asset": "SPY",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "2502",
+        "side": "buy",
+        "price": 679.48,
+        "quantity": 69.0,
+        "asset": "SPY",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "2337",
+        "side": "buy",
+        "price": 679.47,
+        "quantity": 82.0,
+        "asset": "SPY",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "2361",
+        "side": "buy",
+        "price": 679.44,
+        "quantity": 82.0,
+        "asset": "SPY",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "1767",
+        "side": "buy",
+        "price": 679.38,
+        "quantity": 4.0,
+        "asset": "SPY",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "2763",
+        "side": "buy",
+        "price": 679.37,
+        "quantity": 86.0,
+        "asset": "SPY",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "1770",
+        "side": "buy",
+        "price": 679.36,
+        "quantity": 13.0,
+        "asset": "SPY",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "2646",
+        "side": "buy",
+        "price": 679.36,
+        "quantity": 93.0,
+        "asset": "SPY",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "2622",
+        "side": "buy",
+        "price": 679.34,
+        "quantity": 5.0,
+        "asset": "SPY",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "2777",
+        "side": "buy",
+        "price": 679.34,
+        "quantity": 98.0,
+        "asset": "SPY",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "2658",
+        "side": "buy",
+        "price": 679.3,
+        "quantity": 23.0,
+        "asset": "SPY",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "2700",
+        "side": "buy",
+        "price": 679.28,
+        "quantity": 77.0,
+        "asset": "SPY",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "2403",
+        "side": "buy",
+        "price": 679.26,
+        "quantity": 85.0,
+        "asset": "SPY",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "2621",
+        "side": "buy",
+        "price": 679.2,
+        "quantity": 14.0,
+        "asset": "SPY",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "2664",
+        "side": "buy",
+        "price": 679.04,
+        "quantity": 92.0,
+        "asset": "SPY",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "2684",
+        "side": "buy",
+        "price": 678.91,
+        "quantity": 809.0,
+        "asset": "SPY",
+        "order_type": "limit",
+        "min_quantity": null
+      }
+    ],
+    "asks": [
+      {
+        "id": "8090",
+        "side": "sell",
+        "price": 682.36,
+        "quantity": 33.0,
+        "asset": "SPY",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8072",
+        "side": "sell",
+        "price": 682.49,
+        "quantity": 46.0,
+        "asset": "SPY",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8066",
+        "side": "sell",
+        "price": 682.55,
+        "quantity": 31.0,
+        "asset": "SPY",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8101",
+        "side": "sell",
+        "price": 682.56,
+        "quantity": 52.0,
+        "asset": "SPY",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "7149",
+        "side": "sell",
+        "price": 683.78,
+        "quantity": 56.0,
+        "asset": "SPY",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "6544",
+        "side": "sell",
+        "price": 683.81,
+        "quantity": 91.0,
+        "asset": "SPY",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "6347",
+        "side": "sell",
+        "price": 683.91,
+        "quantity": 56.0,
+        "asset": "SPY",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "6223",
+        "side": "sell",
+        "price": 684.11,
+        "quantity": 95.0,
+        "asset": "SPY",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "6251",
+        "side": "sell",
+        "price": 684.35,
+        "quantity": 25.0,
+        "asset": "SPY",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "6258",
+        "side": "sell",
+        "price": 684.47,
+        "quantity": 30.0,
+        "asset": "SPY",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "6284",
+        "side": "sell",
+        "price": 684.52,
+        "quantity": 17.0,
+        "asset": "SPY",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "6291",
+        "side": "sell",
+        "price": 684.56,
+        "quantity": 63.0,
+        "asset": "SPY",
+        "order_type": "limit",
+        "min_quantity": null
+      }
+    ]
+  },
+  "NVDA": {
+    "bids": [
+      {
+        "id": "8617",
+        "side": "buy",
+        "price": 182.39,
+        "quantity": 86.0,
+        "asset": "NVDA",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8620",
+        "side": "buy",
+        "price": 182.35,
+        "quantity": 64.0,
+        "asset": "NVDA",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8629",
+        "side": "buy",
+        "price": 182.24,
+        "quantity": 38.0,
+        "asset": "NVDA",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8635",
+        "side": "buy",
+        "price": 182.0,
+        "quantity": 53.0,
+        "asset": "NVDA",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8636",
+        "side": "buy",
+        "price": 182.0,
+        "quantity": 722.0,
+        "asset": "NVDA",
+        "order_type": "limit",
+        "min_quantity": null
+      }
+    ],
+    "asks": [
+      {
+        "id": "8621",
+        "side": "sell",
+        "price": 182.4,
+        "quantity": 80.0,
+        "asset": "NVDA",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8628",
+        "side": "sell",
+        "price": 182.4,
+        "quantity": 100.0,
+        "asset": "NVDA",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8429",
+        "side": "sell",
+        "price": 182.44,
+        "quantity": 196.0,
+        "asset": "NVDA",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8479",
+        "side": "sell",
+        "price": 182.45,
+        "quantity": 15.0,
+        "asset": "NVDA",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "1285",
+        "side": "sell",
+        "price": 182.46,
+        "quantity": 1.0,
+        "asset": "NVDA",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8571",
+        "side": "sell",
+        "price": 182.47,
+        "quantity": 32.0,
+        "asset": "NVDA",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8618",
+        "side": "sell",
+        "price": 182.48,
+        "quantity": 58.0,
+        "asset": "NVDA",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8244",
+        "side": "sell",
+        "price": 182.49,
+        "quantity": 28.0,
+        "asset": "NVDA",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8328",
+        "side": "sell",
+        "price": 182.5,
+        "quantity": 32.0,
+        "asset": "NVDA",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8475",
+        "side": "sell",
+        "price": 182.51,
+        "quantity": 535.0,
+        "asset": "NVDA",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8411",
+        "side": "sell",
+        "price": 182.54,
+        "quantity": 34.0,
+        "asset": "NVDA",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8517",
+        "side": "sell",
+        "price": 182.55,
+        "quantity": 78.0,
+        "asset": "NVDA",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8270",
+        "side": "sell",
+        "price": 182.56,
+        "quantity": 8.0,
+        "asset": "NVDA",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8295",
+        "side": "sell",
+        "price": 182.56,
+        "quantity": 84.0,
+        "asset": "NVDA",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8320",
+        "side": "sell",
+        "price": 182.56,
+        "quantity": 875.0,
+        "asset": "NVDA",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8286",
+        "side": "sell",
+        "price": 182.57,
+        "quantity": 64.0,
+        "asset": "NVDA",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8430",
+        "side": "sell",
+        "price": 182.59,
+        "quantity": 4.0,
+        "asset": "NVDA",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8303",
+        "side": "sell",
+        "price": 182.6,
+        "quantity": 94.0,
+        "asset": "NVDA",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8524",
+        "side": "sell",
+        "price": 182.61,
+        "quantity": 88.0,
+        "asset": "NVDA",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8569",
+        "side": "sell",
+        "price": 182.64,
+        "quantity": 55.0,
+        "asset": "NVDA",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8512",
+        "side": "sell",
+        "price": 182.66,
+        "quantity": 50.0,
+        "asset": "NVDA",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8458",
+        "side": "sell",
+        "price": 182.68,
+        "quantity": 504.0,
+        "asset": "NVDA",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "8450",
+        "side": "sell",
+        "price": 182.8,
+        "quantity": 73.0,
+        "asset": "NVDA",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "4925",
+        "side": "sell",
+        "price": 183.02,
+        "quantity": 70.0,
+        "asset": "NVDA",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "5258",
+        "side": "sell",
+        "price": 183.1,
+        "quantity": 18.0,
+        "asset": "NVDA",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "5069",
+        "side": "sell",
+        "price": 183.12,
+        "quantity": 27.0,
+        "asset": "NVDA",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "5268",
+        "side": "sell",
+        "price": 183.13,
+        "quantity": 76.0,
+        "asset": "NVDA",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "5230",
+        "side": "sell",
+        "price": 183.14,
+        "quantity": 95.0,
+        "asset": "NVDA",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "5009",
+        "side": "sell",
+        "price": 183.16,
+        "quantity": 32.0,
+        "asset": "NVDA",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "5099",
+        "side": "sell",
+        "price": 183.17,
+        "quantity": 335.0,
+        "asset": "NVDA",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "5123",
+        "side": "sell",
+        "price": 183.26,
+        "quantity": 21.0,
+        "asset": "NVDA",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "5016",
+        "side": "sell",
+        "price": 183.27,
+        "quantity": 79.0,
+        "asset": "NVDA",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "5038",
+        "side": "sell",
+        "price": 183.35,
+        "quantity": 99.0,
+        "asset": "NVDA",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "5110",
+        "side": "sell",
+        "price": 183.36,
+        "quantity": 515.0,
+        "asset": "NVDA",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "5032",
+        "side": "sell",
+        "price": 183.39,
+        "quantity": 91.0,
+        "asset": "NVDA",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "5207",
+        "side": "sell",
+        "price": 183.39,
+        "quantity": 79.0,
+        "asset": "NVDA",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "1306",
+        "side": "sell",
+        "price": 183.73,
+        "quantity": 40.0,
+        "asset": "NVDA",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "1239",
+        "side": "sell",
+        "price": 183.74,
+        "quantity": 30.0,
+        "asset": "NVDA",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "1352",
+        "side": "sell",
+        "price": 183.81,
+        "quantity": 28.0,
+        "asset": "NVDA",
+        "order_type": "limit",
+        "min_quantity": null
+      }
+    ]
+  }
+}

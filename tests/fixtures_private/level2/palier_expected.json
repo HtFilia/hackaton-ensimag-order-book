@@ -1,0 +1,416 @@
+{
+  "GOOGL": {
+    "bids": [
+      {
+        "id": "9981",
+        "side": "buy",
+        "price": 303.67,
+        "quantity": 456.0,
+        "asset": "GOOGL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "9955",
+        "side": "buy",
+        "price": 303.66,
+        "quantity": 81.0,
+        "asset": "GOOGL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "9938",
+        "side": "buy",
+        "price": 303.62,
+        "quantity": 75.0,
+        "asset": "GOOGL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "9940",
+        "side": "buy",
+        "price": 303.59,
+        "quantity": 49.0,
+        "asset": "GOOGL",
+        "order_type": "limit",
+        "min_quantity": null
+      }
+    ],
+    "asks": [
+      {
+        "id": "9976",
+        "side": "sell",
+        "price": 303.69,
+        "quantity": 58.0,
+        "asset": "GOOGL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "9993",
+        "side": "sell",
+        "price": 303.77,
+        "quantity": 26.0,
+        "asset": "GOOGL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "9951",
+        "side": "sell",
+        "price": 303.8,
+        "quantity": 39.0,
+        "asset": "GOOGL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "9984",
+        "side": "sell",
+        "price": 303.82,
+        "quantity": 46.0,
+        "asset": "GOOGL",
+        "order_type": "limit",
+        "min_quantity": null
+      }
+    ]
+  },
+  "AAPL": {
+    "bids": [
+      {
+        "id": "9968",
+        "side": "buy",
+        "price": 258.84,
+        "quantity": 37.0,
+        "asset": "AAPL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "9945",
+        "side": "buy",
+        "price": 258.83,
+        "quantity": 54.0,
+        "asset": "AAPL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "9978",
+        "side": "buy",
+        "price": 258.77,
+        "quantity": 76.0,
+        "asset": "AAPL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "9975",
+        "side": "buy",
+        "price": 258.7,
+        "quantity": 56.0,
+        "asset": "AAPL",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "9977",
+        "side": "buy",
+        "price": 258.68,
+        "quantity": 79.0,
+        "asset": "AAPL",
+        "order_type": "limit",
+        "min_quantity": null
+      }
+    ],
+    "asks": [
+      {
+        "id": "9982",
+        "side": "sell",
+        "price": 258.87,
+        "quantity": 110.0,
+        "asset": "AAPL",
+        "order_type": "limit",
+        "min_quantity": null
+      }
+    ]
+  },
+  "MSFT": {
+    "bids": [
+      {
+        "id": "9948",
+        "side": "buy",
+        "price": 401.47,
+        "quantity": 23.0,
+        "asset": "MSFT",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "9980",
+        "side": "buy",
+        "price": 401.47,
+        "quantity": 427.0,
+        "asset": "MSFT",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "9963",
+        "side": "buy",
+        "price": 401.41,
+        "quantity": 13.0,
+        "asset": "MSFT",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "9953",
+        "side": "buy",
+        "price": 401.35,
+        "quantity": 43.0,
+        "asset": "MSFT",
+        "order_type": "limit",
+        "min_quantity": null
+      }
+    ],
+    "asks": [
+      {
+        "id": "9959",
+        "side": "sell",
+        "price": 401.58,
+        "quantity": 68.0,
+        "asset": "MSFT",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "9970",
+        "side": "sell",
+        "price": 401.62,
+        "quantity": 19.0,
+        "asset": "MSFT",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "10000",
+        "side": "sell",
+        "price": 401.67,
+        "quantity": 69.0,
+        "asset": "MSFT",
+        "order_type": "limit",
+        "min_quantity": null
+      }
+    ]
+  },
+  "SPY": {
+    "bids": [
+      {
+        "id": "9937",
+        "side": "buy",
+        "price": 682.2,
+        "quantity": 33.0,
+        "asset": "SPY",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "9989",
+        "side": "buy",
+        "price": 682.14,
+        "quantity": 40.0,
+        "asset": "SPY",
+        "order_type": "limit",
+        "min_quantity": null
+      }
+    ],
+    "asks": [
+      {
+        "id": "9969",
+        "side": "sell",
+        "price": 682.53,
+        "quantity": 46.0,
+        "asset": "SPY",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "9956",
+        "side": "sell",
+        "price": 682.55,
+        "quantity": 44.0,
+        "asset": "SPY",
+        "order_type": "limit",
+        "min_quantity": null
+      }
+    ]
+  },
+  "AMZN": {
+    "bids": [
+      {
+        "id": "9972",
+        "side": "buy",
+        "price": 195.86,
+        "quantity": 4.0,
+        "asset": "AMZN",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "9944",
+        "side": "buy",
+        "price": 195.81,
+        "quantity": 39.0,
+        "asset": "AMZN",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "9961",
+        "side": "buy",
+        "price": 195.81,
+        "quantity": 53.0,
+        "asset": "AMZN",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "9985",
+        "side": "buy",
+        "price": 195.77,
+        "quantity": 45.0,
+        "asset": "AMZN",
+        "order_type": "limit",
+        "min_quantity": null
+      }
+    ],
+    "asks": []
+  },
+  "META": {
+    "bids": [
+      {
+        "id": "9966",
+        "side": "buy",
+        "price": 636.73,
+        "quantity": 41.0,
+        "asset": "META",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "9958",
+        "side": "buy",
+        "price": 636.56,
+        "quantity": 30.0,
+        "asset": "META",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "9998",
+        "side": "buy",
+        "price": 636.49,
+        "quantity": 253.0,
+        "asset": "META",
+        "order_type": "limit",
+        "min_quantity": null
+      }
+    ],
+    "asks": []
+  },
+  "TSLA": {
+    "bids": [
+      {
+        "id": "9991",
+        "side": "buy",
+        "price": 419.35,
+        "quantity": 78.0,
+        "asset": "TSLA",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "9967",
+        "side": "buy",
+        "price": 419.33,
+        "quantity": 18.0,
+        "asset": "TSLA",
+        "order_type": "limit",
+        "min_quantity": null
+      }
+    ],
+    "asks": [
+      {
+        "id": "9994",
+        "side": "sell",
+        "price": 419.41,
+        "quantity": 87.0,
+        "asset": "TSLA",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "9957",
+        "side": "sell",
+        "price": 419.44,
+        "quantity": 18.0,
+        "asset": "TSLA",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "9979",
+        "side": "sell",
+        "price": 419.73,
+        "quantity": 690.0,
+        "asset": "TSLA",
+        "order_type": "limit",
+        "min_quantity": null
+      }
+    ]
+  },
+  "NVDA": {
+    "bids": [
+      {
+        "id": "9952",
+        "side": "buy",
+        "price": 184.83,
+        "quantity": 344.0,
+        "asset": "NVDA",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "9941",
+        "side": "buy",
+        "price": 184.71,
+        "quantity": 47.0,
+        "asset": "NVDA",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "9983",
+        "side": "buy",
+        "price": 184.54,
+        "quantity": 48.0,
+        "asset": "NVDA",
+        "order_type": "limit",
+        "min_quantity": null
+      },
+      {
+        "id": "9973",
+        "side": "buy",
+        "price": 184.53,
+        "quantity": 14.0,
+        "asset": "NVDA",
+        "order_type": "limit",
+        "min_quantity": null
+      }
+    ],
+    "asks": []
+  }
+}
