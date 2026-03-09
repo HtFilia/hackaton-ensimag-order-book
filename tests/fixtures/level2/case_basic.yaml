@@ -7,45 +7,40 @@ books:
     asks: []
 orders:
 - id: '1'
-  side: buy
+  side: sell
   price: 255.0
   quantity: 10
   asset: AAPL
 - id: '2'
   side: sell
-  price: 254.9
-  quantity: 4
+  price: 255.5
+  quantity: 10
   asset: AAPL
 - id: '3'
-  side: sell
-  price: 255.1
-  quantity: 6
+  side: buy
+  price: 0
+  quantity: 12
   asset: AAPL
+  order_type: market
 - id: '4'
   side: buy
-  price: 400.0
-  quantity: 20
-  asset: MSFT
-- id: '5'
-  side: sell
   price: 401.0
   quantity: 5
   asset: MSFT
+- id: '5'
+  side: sell
+  price: 0
+  quantity: 3
+  asset: MSFT
+  order_type: market
 expected_final:
   AAPL:
-    bids:
-    - id: '1'
-      side: buy
-      price: 255.0
-      quantity: 6
-      asset: AAPL
-      order_type: limit
-      min_quantity: null
+    bids: []
     asks:
-    - id: '3'
+    - id: '2'
       side: sell
-      price: 255.1
-      quantity: 6
+      price: 255.5
+      quantity: 8
       asset: AAPL
       order_type: limit
       min_quantity: null
@@ -53,16 +48,9 @@ expected_final:
     bids:
     - id: '4'
       side: buy
-      price: 400.0
-      quantity: 20
-      asset: MSFT
-      order_type: limit
-      min_quantity: null
-    asks:
-    - id: '5'
-      side: sell
       price: 401.0
-      quantity: 5
+      quantity: 2
       asset: MSFT
       order_type: limit
       min_quantity: null
+    asks: []

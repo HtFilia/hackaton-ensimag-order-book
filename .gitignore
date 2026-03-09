@@ -29,3 +29,31 @@ Thumbs.db
 
 # Custom agent configuration
 AGENTS.md
+
+# Private fixtures (organizer only)
+tests/fixtures_private/
+
+# Scoring output
+results/
+
+# Frontend build artifacts
+frontend/dist/
+frontend/node_modules/
+
+# Admin-only frontend (organizer dashboard + generated JSON)
+frontend/src/leaderboard/
+frontend/admin.html
+frontend/public/scores.json
+frontend/public/student-results.json
+
+# Admin-only Python modules
+src/scoring/
+src/student/
+src/validation/csv_parser.py
+
+# Admin-only submissions (reference implementations)
+submissions/example_team/
+
+# Hackathon private documents
+*.csv
+*.pdf

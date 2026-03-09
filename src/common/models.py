@@ -14,6 +14,22 @@ class OrderType(str, Enum):
     LIMIT = "limit"
     MARKET = "market"
     BLOCK = "block"
+    STOP_LIMIT = "stop_limit"
+    LOC = "loc"   # Limit-on-Close: participates only in the closing auction
+    MOC = "moc"   # Market-on-Close: participates only in the closing auction
+
+
+class TimeInForce(str, Enum):
+    GTC = "GTC"
+    IOC = "IOC"
+    FOK = "FOK"
+
+
+class Action(str, Enum):
+    NEW = "NEW"
+    CANCEL = "CANCEL"
+    AMEND = "AMEND"
+    CLOSE = "CLOSE"  # Triggers the closing auction for a specific asset
 
 
 @dataclass
@@ -25,12 +41,21 @@ class Order:
     asset: str = "default"
     order_type: OrderType = OrderType.LIMIT
     min_quantity: Optional[float] = None  # used for block orders
+    time_in_force: TimeInForce = TimeInForce.GTC
+    action: Action = Action.NEW
+    visible_quantity: Optional[float] = None
+    stop_price: Optional[float] = None
+    trader_id: Optional[str] = None
 
     def __post_init__(self) -> None:
         if isinstance(self.side, str):
             self.side = Side(self.side)
         if isinstance(self.order_type, str):
             self.order_type = OrderType(self.order_type)
+        if isinstance(self.time_in_force, str):
+            self.time_in_force = TimeInForce(self.time_in_force)
+        if isinstance(self.action, str):
+            self.action = Action(self.action)
 
 
 @dataclass
@@ -71,7 +96,7 @@ class MultiBook:
 
 
 def order_to_dict(order: Order) -> dict:
-    return {
+    d = {
         "id": order.id,
         "side": order.side.value if isinstance(order.side, Side) else order.side,
         "price": order.price,
@@ -82,3 +107,15 @@ def order_to_dict(order: Order) -> dict:
         else order.order_type,
         "min_quantity": order.min_quantity,
     }
+    # Conditional serialization: only include new fields when non-default
+    if order.time_in_force != TimeInForce.GTC:
+        d["time_in_force"] = order.time_in_force.value
+    if order.action != Action.NEW:
+        d["action"] = order.action.value
+    if order.visible_quantity is not None:
+        d["visible_quantity"] = order.visible_quantity
+    if order.stop_price is not None:
+        d["stop_price"] = order.stop_price
+    if order.trader_id is not None:
+        d["trader_id"] = order.trader_id
+    return d

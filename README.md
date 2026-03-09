@@ -1,95 +1,106 @@
-# Hackathon Order Book Challenge
+# Hackathon Flash Trading — Carnet d'Ordres
 
-Welcome to the Order Book Hackathon! Your goal is to build a high-performance, deterministic order book engine that evolves through increasingly complex levels.
+Bienvenue ! Votre objectif est de construire un moteur de carnet d'ordres performant et déterministe, qui évolue à travers 6 paliers de complexité croissante.
 
-## 🚀 Getting Started
+## Démarrage rapide
 
-### 1. Prerequisites
+### Prérequis
 - Python 3.11+
-- virtualenv (recommended)
 
-### 2. Setup Environment
-Clone the repository and set up your virtual environment:
+### Installation
 
 ```bash
-# Create virtual environment
 python3 -m venv venv
+source venv/bin/activate   # Linux/MacOS
+# OU .\venv\Scripts\activate  # Windows
 
-# Activate it
-source venv/bin/activate  # On Linux/MacOS
-# OR
-.\venv\Scripts\activate   # On Windows
-
-# Install dependencies
 pip install -r requirements.txt
 ```
 
-## 🏆 Participation Guide
+## Guide de participation
 
-### 1. Register Your Team
-Before writing code, register your team by adding an entry to `config/teams.yaml`:
+### 1. Enregistrer votre équipe
+
+Ajoutez une entrée dans `config/teams.yaml` :
 
 ```yaml
 teams:
-  - id: your_team_name
+  - id: nom_de_votre_equipe
     members:
-      - "Member 1 Name"
-      - "Member 2 Name"
+      - "Prénom Nom 1"
+      - "Prénom Nom 2"
 ```
 
-### 2. Directory Structure
-You will work primarily in the `submissions/` directory. Create a folder for your team if it doesn't exist:
+### 2. Structure de répertoire
 
 ```
 submissions/
-└── your_team_name/
+└── nom_de_votre_equipe/
     ├── __init__.py
     ├── level1.py
-    └── level2.py
+    ├── level2.py
+    └── ...
 ```
 
-*Check `submissions/example_team/` for a reference implementation.*
+Copiez `submissions/_template/` comme point de départ.
+Consultez `submissions/example_team/` pour une implémentation de référence.
 
-### 3. The Challenge Levels
-The challenge is divided into levels. You must pass validation for the current level to proceed.
+### 3. Les paliers
 
-*   **Level 1**: Basic Limit Order Book. Support for adding and matching limit orders.
-*   **Level 2**: Market Orders. Immediate execution against the book.
-*   *(More levels will be revealed as you progress)*
+Tous les paliers utilisent la même signature :
+
+```python
+def process_orders(initial_book: MultiBook, orders: Iterable[Order]) -> MultiBook:
+```
+
+| Palier | Concept | Nouveautés |
+|--------|---------|------------|
+| 1 | Ordres limite de base | Ordres LIMIT, priorité prix-temps |
+| 2 | Ordres au marché | Ordres MARKET (non placés si non exécutés) |
+| 3 | Annulation et modification | CANCEL supprime ; AMEND = annuler + réinsérer |
+| 4 | IOC et FOK | IOC exécute puis annule le reste ; FOK tout-ou-rien |
+| 5 | Ordres iceberg | `visible_quantity` cache la profondeur ; rechargement automatique |
+| 6 | Enchère de clôture | LOC/MOC en file jusqu'au CLOSE → décroisement max-volume |
+
+Voir `docs/levels.md` pour les spécifications complètes.
 
 ### 4. Workflow
-1.  **Implement**: Write your solution for the current level in `submissions/<your_team_name>/levelX.py`.
-2.  **Validate**: Run the tests locally to ensure your implementation is correct.
-3.  **Submit**: Commit and push your changes. CI will run the validation suite and update the leaderboard.
 
-## 🧪 Running Tests
+1. **Implémenter** : écrivez votre solution dans `submissions/<votre_equipe>/level1.py` jusqu'à `level6.py`.
+2. **Tester localement** : `make test` pour valider sur les tests publics.
+3. **Soumettre** : `git commit` puis `git push`. Une CI vérifiera automatiquement vos tests publics et affichera un badge ✓/✗ sur votre commit.
 
-We use `pytest` for validation. You can run tests for a specific level or generally.
+## Lancer les tests
 
-**Run validation for Level 1:**
 ```bash
-pytest tests/levels/test_level1_validation.py
+# Tous les tests publics
+make test
+
+# Un palier spécifique
+make test-level LEVEL=3
+
+# Afficher l'aide
+make
 ```
 
-**Run all tests:**
-```bash
-pytest
-```
+## Notation
 
-**Development Tip**: You can also write your own tests or run your code manually using the fixtures provided in `tests/fixtures/`.
+Les équipes sont classées par :
+1. **Palier le plus élevé réussi** (les paliers 1 à N doivent tous passer consécutivement)
+2. **Nombre total de fixtures réussies** (départage)
 
-## 📜 Rules & Guidelines
+## Règles
 
-1.  **Determinism**: Your order book must be deterministic. Given the same sequence of inputs, the final state of the book must always be identical. Avoid using random seeds or system time that affects processing logic.
-2.  **Performance**: Efficiency matters!
-3.  **No Secrets**: Do not commit API keys or secrets.
-4.  **Code Style**: We recommend following PEP 8. formatted code is easier to debug!
+1. **Déterminisme** : votre moteur doit être déterministe. Pas de graine aléatoire ni d'heure système.
+2. **Performance** : chaque fixture a un timeout de 5 secondes.
+3. **Pas de secrets** : ne commitez pas de clés API ou autres secrets.
+4. **Style de code** : PEP 8 recommandé.
 
-## ❓ Troubleshooting
+## Dépannage
 
-If validation fails:
-- Check the error message in the test output.
-- Ensure your implementation handles edge cases (e.g., matching multiple orders, partial fills).
-- Compare against `submissions/example_team` if you are stuck (but don't just copy-paste!).
+- Vérifiez le message d'erreur dans la sortie des tests.
+- Assurez-vous que votre implémentation gère les cas limites (exécutions partielles, carnets vides).
+- Consultez `submissions/_template/` pour les signatures de fonctions correctes.
+- Lisez `docs/levels.md` pour les spécifications détaillées.
 
-Good luck, and may the best engine win! 🚀
+Bonne chance !
