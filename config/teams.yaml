@@ -4,3 +4,6 @@ teams:
   - id: example_team
     members:
       - "Example Member"
+  - id: Najlaa
+    members:
+      - "Najlaa"
